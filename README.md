@@ -17,4 +17,4 @@ to .txt files using the command  ` $ wget -O <file.txt> <url>`
  `<url>` is the url of the web page containing the book    
                     example (Moby Dick): https://www.gutenberg.org/cache/epub/2701/pg2701.txt
 
-The [Project Gutenberg](https://www.gutenberg.org/) is the recommended website for download of Creative Commons books.
+The [Project Gutenberg](https://www.gutenberg.org/) website is the recommended website for download of Creative Commons books.
